@@ -1,6 +1,6 @@
 # 🎫 Sistema de Tickets - Soporte TI UTP
 
-Sistema de gestión de tickets de soporte técnico desarrollado para la Universidad Tecnológica del Perú - Lima Sur.
+Sistema de gestión de tickets de soporte técnico.
 
 ## 🚀 Características
 
